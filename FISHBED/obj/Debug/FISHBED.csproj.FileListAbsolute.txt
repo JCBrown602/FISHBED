@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\FISHBED\FISHBED\bin\Debug\FISHBED.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\FISHBED\FISHBED\bin\Debug\FISHBED.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\FISHBED\FISHBED\bin\Debug\FISHBED.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\FISHBED\FISHBED\obj\Debug\FISHBED.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\FISHBED\FISHBED\obj\Debug\FISHBED.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\FISHBED\FISHBED\obj\Debug\FISHBED.pdb
